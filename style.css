@@ -1,0 +1,29 @@
+body
+{
+  background-color: #F9F9F9;
+}
+
+#mechFarmBackground
+{
+  position: fixed;
+
+  right: 0;
+  bottom: 100;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content
+{
+  position: fixed;
+  bottom: 0;
+  background:#FFF5DA;
+
+  color: #D7B19D;
+  width: 100%;
+  padding: 20px;
+}
+.soil-ad
+{
+  color:#FF7600;
+}
